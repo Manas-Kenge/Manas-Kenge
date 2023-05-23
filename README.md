@@ -55,6 +55,6 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Let's Connect
 <p align="center">
   
-<a href="[https://linkedin.com/in/Manas Kenge](https://www.linkedin.com/in/manas-kenge-857039236/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas kenge" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/manas-kenge-857039236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas kenge" height="30" width="40" /></a>
 	
 </p>
