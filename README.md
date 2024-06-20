@@ -6,8 +6,8 @@
 
 <br>
 
-* A passionate Self-taught Front-end developer
-* Currently learning Web Development by Self
+* A passionate Self-taught Full Stack developer
+* Currently learning DSA & DevOps by Self
 * Looking to collaborate on open source projects
 
 
@@ -17,35 +17,13 @@
 <br>
 
 <p align="center">
-
-- **Languages**:
-    
-  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-<br>
-
-- **Back-End Development**:
-
-   ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-<br>
-
-- **Databases**:
-
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts" />
+	  <br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,express,react,nextjs,mongodb,mysql,postgres" />
+	  <br>
+    <img src="https://skillicons.dev/icons?i=docker,git,postman,prisma,vite" />
+  </a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
