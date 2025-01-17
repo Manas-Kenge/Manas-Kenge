@@ -9,6 +9,7 @@
 * A passionate Self-taught Full Stack developer
 * Currently learning DSA & DevOps by Self
 * Looking to collaborate on open source projects
+* Trying to get hired
 
 
 <br>
@@ -18,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py" />
 	  <br>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,express,react,nextjs,mongodb,mysql,postgres" />
 	  <br>
@@ -38,13 +39,6 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <!-- [![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manas-Kenge&show_icons=true&theme=merko)] -->
 <br>
 	
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Let's Connect
-<p align="center">
-  
-<a href="www.linkedin.com/in/manas-kenge-857039236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas kenge" height="30" width="40" /></a>
-	
-</p>
+
